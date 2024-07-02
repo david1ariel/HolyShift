@@ -1,0 +1,17 @@
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\03-BusinessLogicLayer.deps.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\03-BusinessLogicLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\03-BusinessLogicLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\02-BusinessModel.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\02-BusinessModel.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\bin\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-Busin.1C0B6B7C.Up2Date
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\refint\03-BusinessLogicLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\03-BusinessLogicLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\03-BusinessLogicLayer\obj\Debug\net8.0\ref\03-BusinessLogicLayer.dll

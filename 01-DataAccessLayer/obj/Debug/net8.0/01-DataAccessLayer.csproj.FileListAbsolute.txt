@@ -1,0 +1,28 @@
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.deps.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.runtimeconfig.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.AssemblyInfo.cs
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\refint\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.genruntimeconfig.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\Design Patterns\HolyShift\01-DataAccessLayer\obj\Debug\net8.0\ref\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.deps.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.runtimeconfig.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\bin\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.AssemblyInfo.cs
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\refint\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\01-DataAccessLayer.genruntimeconfig.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\01-DataAccessLayer\obj\Debug\net8.0\ref\01-DataAccessLayer.dll

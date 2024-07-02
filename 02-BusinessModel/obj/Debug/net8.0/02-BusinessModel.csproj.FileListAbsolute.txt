@@ -1,0 +1,15 @@
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\bin\Debug\net8.0\02-BusinessModel.deps.json
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\bin\Debug\net8.0\02-BusinessModel.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\bin\Debug\net8.0\02-BusinessModel.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\bin\Debug\net8.0\01-DataAccessLayer.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\bin\Debug\net8.0\01-DataAccessLayer.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.csproj.AssemblyReference.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.AssemblyInfoInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.AssemblyInfo.cs
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-Busin.99B26136.Up2Date
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\refint\02-BusinessModel.dll
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\02-BusinessModel.pdb
+C:\Users\דוד אריאל\source\repos\EyalSegalTraining\HolyShift\Backend\02-BusinessModel\obj\Debug\net8.0\ref\02-BusinessModel.dll

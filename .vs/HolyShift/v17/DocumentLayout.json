@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F934369B-5723-45F9-A244-1BB3EFB0CE43}|04-RestApi\\04-RestApi.csproj|c:\\users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\eyalsegaltraining\\holyshift\\backend\\04-restapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F934369B-5723-45F9-A244-1BB3EFB0CE43}|04-RestApi\\04-RestApi.csproj|solutionrelative:04-restapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F934369B-5723-45F9-A244-1BB3EFB0CE43}|04-RestApi\\04-RestApi.csproj|c:\\users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\eyalsegaltraining\\holyshift\\backend\\04-restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F934369B-5723-45F9-A244-1BB3EFB0CE43}|04-RestApi\\04-RestApi.csproj|solutionrelative:04-restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F4211C-F2AF-4380-A07F-704214A2AB0C}|03-BusinessLogicLayer\\03-BusinessLogicLayer.csproj|c:\\users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\eyalsegaltraining\\holyshift\\backend\\03-businesslogiclayer\\helpers\\auth\\token\\accesstokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F4211C-F2AF-4380-A07F-704214A2AB0C}|03-BusinessLogicLayer\\03-BusinessLogicLayer.csproj|solutionrelative:03-businesslogiclayer\\helpers\\auth\\token\\accesstokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F4211C-F2AF-4380-A07F-704214A2AB0C}|03-BusinessLogicLayer\\03-BusinessLogicLayer.csproj|c:\\users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\eyalsegaltraining\\holyshift\\backend\\03-businesslogiclayer\\helpers\\auth\\token\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F4211C-F2AF-4380-A07F-704214A2AB0C}|03-BusinessLogicLayer\\03-BusinessLogicLayer.csproj|solutionrelative:03-businesslogiclayer\\helpers\\auth\\token\\keystore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2092,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\04-RestApi\\Program.cs",
+              "RelativeDocumentMoniker": "04-RestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\04-RestApi\\Program.cs",
+              "RelativeToolTip": "04-RestApi\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:50:24.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\03-BusinessLogicLayer\\Helpers\\Auth\\Token\\AccessTokenHandler.cs",
+              "RelativeDocumentMoniker": "03-BusinessLogicLayer\\Helpers\\Auth\\Token\\AccessTokenHandler.cs",
+              "ToolTip": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\03-BusinessLogicLayer\\Helpers\\Auth\\Token\\AccessTokenHandler.cs",
+              "RelativeToolTip": "03-BusinessLogicLayer\\Helpers\\Auth\\Token\\AccessTokenHandler.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAMwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:46:29.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyStore.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\03-BusinessLogicLayer\\Helpers\\Auth\\Token\\KeyStore.cs",
+              "RelativeDocumentMoniker": "03-BusinessLogicLayer\\Helpers\\Auth\\Token\\KeyStore.cs",
+              "ToolTip": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\03-BusinessLogicLayer\\Helpers\\Auth\\Token\\KeyStore.cs",
+              "RelativeToolTip": "03-BusinessLogicLayer\\Helpers\\Auth\\Token\\KeyStore.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:46:29.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\04-RestApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "04-RestApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u05D3\u05D5\u05D3 \u05D0\u05E8\u05D9\u05D0\u05DC\\source\\repos\\EyalSegalTraining\\HolyShift\\Backend\\04-RestApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "04-RestApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:26:11.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
